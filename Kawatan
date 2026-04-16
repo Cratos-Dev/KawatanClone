@@ -49,7 +49,7 @@ getgenv().TARGET_BRAINROTS = {
     ["Antonio"] = true,
     ["Jolly Jolly Sahur"] = true,
     ["Dug dug dug"] = true,
-    ["Lovin Rose"] = true,
+    ["Hydra Bunny"] = true,
     ["Fragola La La La"] = true
 }
 task.spawn(function()
